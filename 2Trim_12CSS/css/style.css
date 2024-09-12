@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightblue;
+}
+h1{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+h2{
+    background-color: white;
+}
+p{
+    color: darkblue;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+ul{
+    background-color: rgba(0, 0, 139, 0.329);
+    color: white;
+}

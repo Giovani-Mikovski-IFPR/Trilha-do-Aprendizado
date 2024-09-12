@@ -1,0 +1,75 @@
+.linha1{
+    background-color: blue;
+    height: 150px;
+    width: 100%;
+}
+
+.esqcima{
+    background-color: green;
+    color: white;
+    width: 450px;
+    height: 125px;
+    position: absolute;
+    left: 150px;
+    top: 90px;
+}
+
+.dircima{
+    background-color: red;
+    color: white;
+    width: 450px;
+    height: 125px;
+    position: absolute;
+    right: 150px;
+    top: 90px;
+}
+.linha2{
+    background-color: green;
+    height: 150px;
+    width: 100%;
+}
+
+.esqcentro{
+    background-color: red;
+    color: white;
+    width: 450px;
+    height: 125px;
+    position: absolute;
+    left: 150px;
+    top: 245px;
+}
+
+.dircentro{
+    background-color: blue;
+    color: white;
+    width: 450px;
+    height: 125px;
+    position: absolute;
+    right: 150px;
+    top: 245px;
+}
+.linha3{
+    background-color: red;
+    height: 150px;
+    width: 100%;
+}
+
+.esqbaixo{
+    background-color: blue;
+    color: white;
+    width: 450px;
+    height: 125px;
+    position: absolute;
+    left: 150px;
+    top: 395px;
+}
+
+.dirbaixo{
+    background-color: green;
+    color: white;
+    width: 450px;
+    height: 125px;
+    position: absolute;
+    right: 150px;
+    top: 395px;
+}
